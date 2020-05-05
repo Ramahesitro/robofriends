@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ramahesitro/robofriends.git/static/css/main.d02d0768.chunk.css",
-    "main.js": "/Ramahesitro/robofriends.git/static/js/main.bb8da374.chunk.js",
-    "main.js.map": "/Ramahesitro/robofriends.git/static/js/main.bb8da374.chunk.js.map",
+    "main.js": "/Ramahesitro/robofriends.git/static/js/main.3b022b4a.chunk.js",
+    "main.js.map": "/Ramahesitro/robofriends.git/static/js/main.3b022b4a.chunk.js.map",
     "runtime-main.js": "/Ramahesitro/robofriends.git/static/js/runtime-main.3b902a75.js",
     "runtime-main.js.map": "/Ramahesitro/robofriends.git/static/js/runtime-main.3b902a75.js.map",
     "static/css/2.036b41f9.chunk.css": "/Ramahesitro/robofriends.git/static/css/2.036b41f9.chunk.css",
     "static/js/2.d82cd422.chunk.js": "/Ramahesitro/robofriends.git/static/js/2.d82cd422.chunk.js",
     "static/js/2.d82cd422.chunk.js.map": "/Ramahesitro/robofriends.git/static/js/2.d82cd422.chunk.js.map",
     "index.html": "/Ramahesitro/robofriends.git/index.html",
-    "precache-manifest.272149b11aa78a61599df6793684ab5b.js": "/Ramahesitro/robofriends.git/precache-manifest.272149b11aa78a61599df6793684ab5b.js",
+    "precache-manifest.c82cc9d74af6f1529110841b4587872b.js": "/Ramahesitro/robofriends.git/precache-manifest.c82cc9d74af6f1529110841b4587872b.js",
     "service-worker.js": "/Ramahesitro/robofriends.git/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/Ramahesitro/robofriends.git/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.d02d0768.chunk.css.map": "/Ramahesitro/robofriends.git/static/css/main.d02d0768.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.d82cd422.chunk.js",
     "static/css/main.d02d0768.chunk.css",
-    "static/js/main.bb8da374.chunk.js"
+    "static/js/main.3b022b4a.chunk.js"
   ]
 }
